@@ -14,7 +14,7 @@ https://obsproject.com/help - Get Started in 5 Easy Steps
 ### Ecosia - replacing Google as search engine.  Non-profit out of Germany.  Planting trees in the millions around the globe.
 
 #### Get Started in 16 Easy-to-Follow Steps
-1. Run the Auto-Configuration Wizard
+<h5>1. Run the Auto-Configuration Wizard</h5>
 The Auto-Configuration Wizard window
 First things first, let's start by setting up the best settings for your recordings and streams. The Auto-Configuration Wizard optimises OBS Studio for your needs, whether you're streaming fast-paced gameplay or recording high-fidelity video.
 
@@ -22,7 +22,7 @@ It takes into account what you want to do in OBS Studio, your computer's hardwar
 
 The wizard shows the first time you run OBS Studio. If you wish to use it again, click on the Tools menu → Auto-Configuration Wizard.
 
-2. Add Sources to your Scenes
+<h5>2. Add Sources to your Scenes</h5>
 Sources menu
 When you start OBS Studio, you start with a blank scene by default. You can add all kinds of Sources — to show images, text, video, your webcam, game play, desktop, etc.
 
@@ -53,11 +53,8 @@ I'm full of shit!  Once you're satisfied, you can go on to creating great conten
 <h4>Further Reading</h4>
 For more tips for setting up a gaming stream, check the following tutorials:
 
-Stream Tutorial 1 Image
-Stream Layout Tutorial 1: Game Screen
+  1: Game Screen
 
-Stream Tutorial 1 Image
-Stream Layout Tutorial 2: Alerts & Chat Box
+  2: Alerts & Chat Box
 
-Stream Tutorial 1 Image
-Stream Layout Tutorial 3: Starting and BRB Screens
+  3: Starting and BRB Screens
