@@ -6,8 +6,8 @@ https://obsproject.com/help - Get Started in 5 Easy Steps
 ## YouTube Accounts:
   - silus spider
   - silus snake
+  - silus gamer
   - 
-  
   
 ### OBS Sources Guide
 
@@ -28,12 +28,12 @@ When you start OBS Studio, you start with a blank scene by default. You can add 
 
 At the bottom of the main window is the Sources Dock. Click on the + symbol to add a source of your choice. Here are a few basic Sources to get you started:
 
-Display Capture	Display Capture Source and Window Capture Source for Windows and Linux, and macOS Screen Capture Source for macOS — capture your desktop or a single window
-Game Capture	Game Capture (Windows only) to capture 3D games with the highest performance
-Video Capture	Video Capture Source to capture your webcam and/or capture cards
 For more information on the various sources, check the Sources Guide
 
 <h5>3. Set up your Audio</h5>
+
+![image](https://user-images.githubusercontent.com/41387907/226399057-cc6973a9-cb4c-4200-a93e-b519eb1f3e45.png)
+
 Audio Mixer
 By default, OBS Studio is set to capture your desktop audio and microphone. You can verify this by looking at the volume meters in the Audio Mixer (pictured left) at the bottom of the main OBS Studio window.
 
