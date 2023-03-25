@@ -32,7 +32,7 @@ For more information on the various sources, check the Sources Guide
 
 <h5>3. Set up your Audio</h5>
 
-![image](https://user-images.githubusercontent.com/41387907/226399057-cc6973a9-cb4c-4200-a93e-b519eb1f3e45.png)
+<img src="https://user-images.githubusercontent.com/41387907/226399057-cc6973a9-cb4c-4200-a93e-b519eb1f3e45.png" width="350" />
 
 Audio Mixer
 By default, OBS Studio is set to capture your desktop audio and microphone. You can verify this by looking at the volume meters in the Audio Mixer (pictured left) at the bottom of the main OBS Studio window.
