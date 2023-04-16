@@ -1,6 +1,6 @@
 <h1>NoBS</h1>
 
-<h2><a href="https://obsproject.com/help"> - Get Started in 5 Easy Steps</a></h2>
+<h3><a href="https://obsproject.com/help"> - Get Started in 5 Easy Steps</a></h3>
 
 <h4>Using OBS Studio to edit videos for YouTube</h4>
 
