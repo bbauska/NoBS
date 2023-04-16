@@ -1,36 +1,40 @@
-# NoBS
-https://obsproject.com/help - Get Started in 5 Easy Steps
+<h1>NoBS</h1>
+<a href="https://obsproject.com/help"> - Get Started in 5 Easy Steps</a>
 
-#### Using OBS Studio to edit videos for YouTube
+<h4>Using OBS Studio to edit videos for YouTube</h4>
 
-## YouTube Accounts:
-  - silus spider
-  - silus snake
-  - silus gaming world
-  - 
-  
-### OBS Sources Guide
+<h2>YouTube Accounts:</h2>
+<ul>
+<li>silus spider</li>&nbsp;&#13;&#13;
+<li>ilus snake</li>&nbsp;&#13;&#13;
+<li>silus gaming world</li>&nbsp;&#13;&#13;
+<li)squid</li>&nbsp;&#13;&#13;
+</ul>
 
-### Ecosia - replacing Google as search engine.  Non-profit out of Germany.  Planting trees in the millions around the globe.
+<h3>OBS Sources Guide</h3>
 
-#### Get Started in 5 Easy-to-Follow Steps
-<h5>1. Run the Auto-Configuration Wizard</h5>
-The Auto-Configuration Wizard window
-First things first, let's start by setting up the best settings for your recordings and streams. The Auto-Configuration Wizard optimises OBS Studio for your needs, whether you're streaming fast-paced gameplay or recording high-fidelity video.
+<h4>Ecosia - replacing Google as search engine.  Non-profit out of Germany.  Planting trees in the millions around the globe.</h4>
 
-It takes into account what you want to do in OBS Studio, your computer's hardware resources, and your network conditions (if you're streaming).
+<h3>Get Started in 5 Easy-to-Follow Steps!</h3>
+<h4>1. Run the Auto-Configuration Wizard</h4>
+<p>The Auto-Configuration Wizard window</p>
 
-The wizard shows the first time you run OBS Studio. If you wish to use it again, click on the Tools menu → Auto-Configuration Wizard.
+<p>First things first, let's start by setting up the best settings for your recordings and streams. The Auto-Configuration Wizard optimises OBS Studio for your needs, whether you're streaming fast-paced gameplay or recording high-fidelity video.</p>
 
-<h5>2. Add Sources to your Scenes</h5>
-Sources menu
-When you start OBS Studio, you start with a blank scene by default. You can add all kinds of Sources — to show images, text, video, your webcam, game play, desktop, etc.
+<p>It takes into account what you want to do in OBS Studio, your computer's hardware resources, and your network conditions (if you're streaming).</p>
+<p>The wizard shows the first time you run OBS Studio. If you wish to use it again, click on the Tools menu → Auto-Configuration Wizard.</p>
 
-At the bottom of the main window is the Sources Dock. Click on the + symbol to add a source of your choice. Here are a few basic Sources to get you started:
+<h4>2. Add Sources to your Scenes</h4>
+<p>Sources menu</p>
 
-For more information on the various sources, check the Sources Guide
+<p>When you start OBS Studio, you start with a blank scene by default. You can add all kinds of Sources — to show images, text, video, your webcam, game play, desktop, etc.</p>
 
-<h5>3. Set up your Audio</h5>
+<p>At the bottom of the main window is the Sources Dock. Click on the + symbol to add a source of your choice.</p>
+Here are a few basic Sources to get you started:</p>
+
+For more information on the various sources, check the Sources Guide <a href="https://obsproject.com/kb/sources-guide">here</a>.
+
+<h4>3. Set up your Audio</h4>
 
 <img src="https://user-images.githubusercontent.com/41387907/226399057-cc6973a9-cb4c-4200-a93e-b519eb1f3e45.png" width="350" />
 
@@ -41,14 +45,14 @@ If they aren't moving, or you suspect the wrong device is being captured, click 
 
 Settings window showing global audio devices
 
-<h5>4. Test your Settings</h5>
+<h4>4. Test your Settings</h4>
 Controls Dock showing the Start Streaming and Start Recording buttons
 Double check that all your settings are how you want them in Settings → Output. Then, click Start Recording or Start Streaming on the Controls Dock (pictured left).
 
 We strongly encourage running a test for a few minutes to make sure that there are no issues, rather than just jumping in to your first stream or recording.
 
-<h5>Done. There are no more steps!</h5>
-I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!  (I wish).
+<h4>Done. There are no more steps!</h4>
+<p>I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!  (I wish).</p>
 
 <h4>Further Reading</h4>
 For more tips on setting up a gaming stream, check the following tutorials:
