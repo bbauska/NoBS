@@ -59,9 +59,9 @@ Settings window showing global audio devices.
 <p>I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!  (I wish).</p>
 
 <h4>Further Reading</h4>
-For more tips on setting up a gaming stream, check the following tutorials:
+<p>For more tips on setting up a gaming stream, check the following tutorials:</p>
 <ol>
-  <li><a href="https://obsproject.com/kb/stream-tutorial-1-game" target="_blank" rel="nooperner norerrer">Game Screen</a>,</li>&nbsp;&#13;
-  <li><a href="https://obsproject.com/kb/stream-tutorial-2-alerts" target="_blank" rel="noopener noreferrer">Alerts & Chat Box</a>,</li>&nbsp;&#13;
-  <li><a href="https://twitchoverlay.com/downloads/category/free-downloads/free-stream-screens/" target="_blank" rel="noopener noreferrer">Starting and BRB Screens</a>.</li>&nbsp;&#13;
+  <li><a href="https://obsproject.com/kb/stream-tutorial-1-game" target="_blank" rel="nooperner norerrer">Developing Game Screens</a>,</li>&nbsp;&#13;
+  <li><a href="https://obsproject.com/kb/stream-tutorial-2-alerts" target="_blank" rel="noopener noreferrer">Using Alerts & Chat Box</a>,</li>&nbsp;&#13;
+  <li><a href="https://twitchoverlay.com/downloads/category/free-downloads/free-stream-screens/" target="_blank" rel="noopener noreferrer">Getting Started and BRB Screens</a>.</li>&nbsp;&#13;
 </ul>
