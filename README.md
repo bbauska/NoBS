@@ -6,14 +6,14 @@ https://obsproject.com/help - Get Started in 5 Easy Steps
 ## YouTube Accounts:
   - silus spider
   - silus snake
-  - silus gamer
+  - silus gaming world
   - 
   
 ### OBS Sources Guide
 
 ### Ecosia - replacing Google as search engine.  Non-profit out of Germany.  Planting trees in the millions around the globe.
 
-#### Get Started in 16 Easy-to-Follow Steps
+#### Get Started in 5 Easy-to-Follow Steps
 <h5>1. Run the Auto-Configuration Wizard</h5>
 The Auto-Configuration Wizard window
 First things first, let's start by setting up the best settings for your recordings and streams. The Auto-Configuration Wizard optimises OBS Studio for your needs, whether you're streaming fast-paced gameplay or recording high-fidelity video.
@@ -47,11 +47,11 @@ Double check that all your settings are how you want them in Settings → Output
 
 We strongly encourage running a test for a few minutes to make sure that there are no issues, rather than just jumping in to your first stream or recording.
 
-<h5>5 thru 16. There are no Step 5-16!</h5>
-I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!
+<h5>Done. There are no more steps!</h5>
+I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!  (I wish).
 
 <h4>Further Reading</h4>
-For more tips for setting up a gaming stream, check the following tutorials:
+For more tips on setting up a gaming stream, check the following tutorials:
 
   1: Game Screen
 
