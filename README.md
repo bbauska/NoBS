@@ -5,10 +5,10 @@
 
 <h2>YouTube Accounts:</h2>
 <ul>
-<li>silus spider</li>&nbsp;&#13;&#13;
-<li>ilus snake</li>&nbsp;&#13;&#13;
-<li>silus gaming world</li>&nbsp;&#13;&#13;
-<li)squid</li>&nbsp;&#13;&#13;
+<li>Silus Gaming World</li>&nbsp;&#13;&#13;
+<li>Silus Snake</li>&nbsp;&#13;&#13;
+<li>Silus Spider</li>&nbsp;&#13;&#13;
+<li)Silus Squad Members</li>&nbsp;&#13;&#13;
 </ul>
 
 <h3>OBS Sources Guide</h3>
