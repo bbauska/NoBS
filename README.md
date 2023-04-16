@@ -5,7 +5,7 @@
 
 <h2>YouTube Accounts:</h2>
 <ul>
-<li>Silus Gaming World</li>&nbsp;&#13;&#13;
+<li>Silus Gaming World</li>&nbsp;&#13;
 <li>Silus Snake</li>&nbsp;&#13;&#13;
 <li>Silus Spider</li>&nbsp;&#13;&#13;
 <li)Silus Squad Members</li>&nbsp;&#13;&#13;
@@ -60,9 +60,9 @@ Settings window showing global audio devices.
 
 <h4>Further Reading</h4>
 For more tips on setting up a gaming stream, check the following tutorials:
-
-  1: Game Screen
+<ol>
+  <li>Game Screen</li>
 
   2: Alerts & Chat Box
 
-  3: Starting and BRB Screens
+  3: Starting and BRB Screens<a href=""https://twitchoverlay.com/downloads/category/free-downloads/free-stream-screens/ target="_blank" rel="noopener noreferrer">here</a>.</li>
