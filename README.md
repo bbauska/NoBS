@@ -1,14 +1,16 @@
 <h1>NoBS</h1>
-<a href="https://obsproject.com/help"> - Get Started in 5 Easy Steps</a>
+
+<h2><a href="https://obsproject.com/help"> - Get Started in 5 Easy Steps</a></h2>
 
 <h4>Using OBS Studio to edit videos for YouTube</h4>
 
 <h2>YouTube Accounts:</h2>
+
 <ul>
-<li>Silus Gaming World</li>&nbsp;&#13;
-<li>Silus Snake</li>&nbsp;&#13;&#13;
-<li>Silus Spider</li>&nbsp;&#13;&#13;
-<li)Silus Squad Members</li>&nbsp;&#13;&#13;
+  <li>Silus Gaming World</li>&nbsp;&#13;
+  <li>Silus Snake</li>&nbsp;&#13;&#13;
+  <li>Silus Spider</li>&nbsp;&#13;&#13;
+  <li)Silus Squad Members</li>&nbsp;&#13;&#13;
 </ul>
 
 <h3>OBS Sources Guide</h3>
@@ -16,7 +18,9 @@
 <h4>Ecosia - replacing Google as search engine.  Non-profit out of Germany.  Planting trees in the millions around the globe.</h4>
 
 <h3>Get Started in 5 Easy-to-Follow Steps!</h3>
+
 <h4>1. Run the Auto-Configuration Wizard</h4>
+
 <p>The Auto-Configuration Wizard window</p>
 
 <p>First things first, let's start by setting up the best settings for your recordings and streams. The Auto-Configuration Wizard optimises OBS Studio for your needs, whether you're streaming fast-paced gameplay or recording high-fidelity video.</p>
@@ -44,7 +48,7 @@
 
 <p>If they aren't moving, or you suspect the wrong device is being captured, click on Settings → Audio and select the devices manually.</p>
 
-Settings window showing global audio devices.
+<p>Settings window showing global audio devices.</p>
 
 <h4>4. Test your Settings</h4>
 
@@ -59,6 +63,7 @@ Settings window showing global audio devices.
 <p>I'm full of shit!  Once you're satisfied, you can go on to creating great content. That's all there is to it!  (I wish).</p>
 
 <h4>Further Reading</h4>
+
 <p>For more tips on setting up a gaming stream, check the following tutorials:</p>
 <ol>
   <li><a href="https://obsproject.com/kb/stream-tutorial-1-game" target="_blank" rel="nooperner norerrer">Developing Game Screens</a>,</li>&nbsp;&#13;
