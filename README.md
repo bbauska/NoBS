@@ -61,8 +61,7 @@ Settings window showing global audio devices.
 <h4>Further Reading</h4>
 For more tips on setting up a gaming stream, check the following tutorials:
 <ol>
-  <li>Game Screen</li>
-
-  2: Alerts & Chat Box
-
-  3: Starting and BRB Screens<a href=""https://twitchoverlay.com/downloads/category/free-downloads/free-stream-screens/ target="_blank" rel="noopener noreferrer">here</a>.</li>
+  <li>Game Screen</li>&nbsp;&#13;
+  <li>Alerts & Chat Box</li>&nbsp;&#13;
+  <li>Starting and BRB Screens<a href=""https://twitchoverlay.com/downloads/category/free-downloads/free-stream-screens/ target="_blank" rel="noopener noreferrer">here</a>.</li>&nbsp;&#13;
+</ul>
